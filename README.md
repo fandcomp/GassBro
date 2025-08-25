@@ -2,7 +2,7 @@
 
 ![GassBro Banner](https://user-images.githubusercontent.com/yourusername/banner-gassbro.png) <!-- Ganti dengan banner milikmu -->
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PSSN](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E=18.0.0-brightgreen)](https://nodejs.org/)
 [![Supabase](https://img.shields.io/badge/supabase-cloud-green)](https://supabase.com/)
 [![Ollama](https://img.shields.io/badge/ollama-llm-blue)](https://ollama.com/)
@@ -123,7 +123,8 @@ GassBro menerapkan konsep **agentic AI**:
 ---
 
 ## 📄 **Lisensi**
-MIT
+Hanif Abdul Karim Afandi - 2221101794
+III RPLK
 
 ---
 
