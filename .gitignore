@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+dist/
+build/
+client/dist/
+server/dist/
+
+# Environment files
+.env
+.env.*
+server/.env
+server/.env.*
+client/.env
+client/.env.*
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ollama model cache (jika ada)
+ollama/
+ollama_models/
+
+# Supabase local dev
+.supabase/
+
+# Misc
+*.sqlite
+*.zip
+*.tar
+*.tgz
