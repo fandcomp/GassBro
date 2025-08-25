@@ -16,15 +16,15 @@
 
 ## ✨ Fitur Unggulan Agentic AI
 
-| Fitur                | Deskripsi                                                                 | Demo/Animasi |
-|----------------------|---------------------------------------------------------------------------|--------------|
-| **Plan → Act → Reflect** | AI merencanakan, mengeksekusi, dan refleksi otomatis setiap hari.         | ![plan-act-reflect](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fzc2Jyb2FpLWFpLXBvcnRhbC1wbGFuLWFjdC1yZWZsZWN0/giphy.gif) |
-| **Natural Language** | Input perintah bebas (chat/Telegram/UI) → AI mengubah jadi aksi nyata.     | ![nlp-demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF0dXJhbC1sYW5ndWFnZS1haS1kYXNoYm9hcmQ/giphy.gif) |
-| **Proaktif & Adaptif** | Otomatis menjadwalkan fokus, deteksi konflik, dan memberi saran perbaikan. | ![proactive](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJvYWN0aXZlLWFpLXNjaGVkdWxlci1kYXNoYm9hcmQ/giphy.gif) |
-| **Memori Kontekstual** | Setiap interaksi dicatat & dipakai untuk keputusan berikutnya.             | ![memory](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVtb3J5LWFpLWNvbnRleHQvZ2lmLmdpZg/giphy.gif) |
-| **Refleksi Otomatis** | Evaluasi & insight harian, rekomendasi perbaikan, dan tren progres.         | ![reflection](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVmbGVjdGlvbi1haS1kYXNoYm9hcmQvZ2lmLmdpZg/giphy.gif) |
-| **Integrasi Telegram** | Kontrol penuh lewat chat: tambah task/event, reset massal, perintah natural.| ![telegram](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVsZWdyYW0tYWktZGFzaGJvYXJkLmdpZg/giphy.gif) |
-| **Panel Eksekusi Real-Time** | Lihat niat, progres, dan hasil setiap aksi agent secara langsung.         | ![execution-panel](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhlY3V0aW9uLXBhbmVsLWFpLmdpZg/giphy.gif) |
+| Fitur                | Deskripsi                                                                 |
+|----------------------|---------------------------------------------------------------------------|
+| **Plan → Act → Reflect** | AI merencanakan, mengeksekusi, dan refleksi otomatis setiap hari.         |
+| **Natural Language** | Input perintah bebas (chat/Telegram/UI) → AI mengubah jadi aksi nyata.     |
+| **Proaktif & Adaptif** | Otomatis menjadwalkan fokus, deteksi konflik, dan memberi saran perbaikan. |
+| **Memori Kontekstual** | Setiap interaksi dicatat & dipakai untuk keputusan berikutnya.             |
+| **Refleksi Otomatis** | Evaluasi & insight harian, rekomendasi perbaikan, dan tren progres.         |
+| **Integrasi Telegram** | Kontrol penuh lewat chat: tambah task/event, reset massal, perintah natural.|
+| **Panel Eksekusi Real-Time** | Lihat niat, progres, dan hasil setiap aksi agent secara langsung.         |
 
 ---
 
@@ -118,7 +118,7 @@ GassBro menerapkan konsep **agentic AI**:
 ## 📸 **Tangkapan Layar**
 | Dashboard | Panel Eksekusi | Telegram |
 |-----------|----------------|----------|
-| ![dashboard](src\img\dashboard.png) | ![execution](src\img\eksekusi.png) | ![telegram](src\img\telegram.png) |
+| ![dashboard](src/img/dashboard.png) | ![execution](src/img/eksekusi.png) | ![telegram](src/img/telegram.png) |
 
 ---
 
