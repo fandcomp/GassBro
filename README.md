@@ -118,7 +118,7 @@ GassBro menerapkan konsep **agentic AI**:
 ## 📸 **Tangkapan Layar**
 | Dashboard | Panel Eksekusi | Telegram |
 |-----------|----------------|----------|
-| ![dashboard](https://user-images.githubusercontent.com/yourusername/gassbro-dashboard.png) | ![execution](https://user-images.githubusercontent.com/yourusername/gassbro-execution.png) | ![telegram](https://user-images.githubusercontent.com/yourusername/gassbro-telegram.png) |
+| ![dashboard](src\img\dashboard.png) | ![execution](src\img\eksekusi.png) | ![telegram](src\img\telegram.png) |
 
 ---
 
